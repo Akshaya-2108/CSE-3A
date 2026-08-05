@@ -1,0 +1,2 @@
+This is my first repository in Github
+Task is to complete git installation commands
